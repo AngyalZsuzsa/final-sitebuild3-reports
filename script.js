@@ -4,6 +4,8 @@ function reports(data) {
             <h4>${data.sub}</h4>
             <h2>${data.title}</h2>
             <h5>${data.text}</h5>
+            <button>Visit<span class="material-icons md-18">arrow_forward</span></button>
+
         </div>`
 }
 
